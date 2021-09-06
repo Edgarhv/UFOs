@@ -22,3 +22,5 @@ In the picture above, we can see that the web page has different filters because
 Finally, this new page is more Dynamic because you have filters, and you can find information depends on what do you want to find but like users, if you don't know the criteria the web page is not useful.
 
 ###### Recommendations for further development:
+######  -For a better function of a web page, I would like to create a button to display the different criteria of the filters.
+######  -I would like to improve the background of the webpage to look more professional.
