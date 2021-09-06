@@ -19,6 +19,6 @@ In this first image, we can see a web page interactive but not dynamic.
 In the picture above, we can see that the web page has different filters because we can find the criteria that we are looking for, and shows the information at the moment. Finally, this web page is dynamic and interactive.
 
 ## Summary
-Finally, this new page is more Dynamic because you have filters, and you can find information depends on what do you want to find but like users, if you don know the criteria the web page is not useful.
+Finally, this new page is more Dynamic because you have filters, and you can find information depends on what do you want to find but like users, if you don't know the criteria the web page is not useful.
 
 ###### Recommendations for further development:
